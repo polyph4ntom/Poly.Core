@@ -1,6 +1,6 @@
 {
-  "name": "com.poly.framework",
-  "displayName": "PolyFramework",
+  "name": "com.poly.core",
+  "displayName": "Poly.Core",
   "version": "0.1.0",
   "dependencies": {
     "com.poly.utils": "0.2.0",
