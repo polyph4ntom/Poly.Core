@@ -1,0 +1,25 @@
+{
+    "name": "Poly.GameFramework",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ea5ca9e23ff8b6b48b1dfaf216a9cb88",
+        "GUID:92bc0159a0d1b884ab4845b6b992edb1",
+        "GUID:4539d4042ef54d4ab0a5c8284079add0",
+        "GUID:abe95220f588ae440bb6ffcfbf3816ea",
+        "GUID:9201da5f17da966469d61c3ffa78d581",
+        "GUID:3dd98317e7bb2124a9e597d9e523de88",
+        "GUID:0d0538427cc5f8446b3048c6c81a18a9",
+        "GUID:1fb06c92f0ed622459b0b53182e04189",
+        "GUID:d4bc8830683519b4596cb1db82301532",
+        "GUID:ce81dfb5e3a58f34cb35ac3c4e2c05bd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

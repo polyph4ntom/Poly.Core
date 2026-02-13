@@ -1,0 +1,9 @@
+{
+  "name": "com.poly.framework",
+  "displayName": "PolyFramework",
+  "version": "0.1.0",
+  "dependencies": {
+    "com.poly.utils": "0.2.0",
+	"com.unity.inputsystem": "1.17.0"
+  }
+}

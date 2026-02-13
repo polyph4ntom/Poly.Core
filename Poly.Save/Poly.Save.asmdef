@@ -1,0 +1,16 @@
+{
+    "name": "Poly.Save",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ea5ca9e23ff8b6b48b1dfaf216a9cb88"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

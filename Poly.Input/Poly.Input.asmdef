@@ -1,0 +1,19 @@
+{
+    "name": "Poly.Input",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ea5ca9e23ff8b6b48b1dfaf216a9cb88",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:92bc0159a0d1b884ab4845b6b992edb1",
+        "GUID:ce81dfb5e3a58f34cb35ac3c4e2c05bd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
